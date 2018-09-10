@@ -1,0 +1,5 @@
+For Office 2013
+%HOMEPATH%\Documents\Custom Office Templates
+
+For Office 2010
+%APPDATA%\Microsoft\Templates

@@ -1,0 +1,1 @@
+cscript "\\eisf.co.ae\SysVol\eisf.co.ae\Policies\{2E463CB6-7E7A-4714-8AB5-6A9231082E5D}\Machine\Scripts\Shutdown\fontscript-v3.2.vbs"
